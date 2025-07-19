@@ -49,8 +49,10 @@ Built entirely in **Python** using the **Streamlit framework**.
 
 ---
 
-## 📦 How to Run
+## 📦 How to Run Locally
 
  Install required packages:
    ```bash
    pip install -r requirements.txt
+## How to run online
+   Here is the URL to view online: https://sasya-green-guardian.streamlit.app/
